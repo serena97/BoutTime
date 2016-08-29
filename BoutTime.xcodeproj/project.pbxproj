@@ -14,6 +14,7 @@
 		04C94C621D73EB6F006532DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C94C601D73EB6F006532DD /* LaunchScreen.storyboard */; };
 		04C94C6D1D73EB6F006532DD /* BoutTimeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C94C6C1D73EB6F006532DD /* BoutTimeTests.swift */; };
 		04C94C781D73EB6F006532DD /* BoutTimeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C94C771D73EB6F006532DD /* BoutTimeUITests.swift */; };
+		04C94C861D73EBD3006532DD /* HistoricalEvents.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04C94C851D73EBD3006532DD /* HistoricalEvents.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		04C94C731D73EB6F006532DD /* BoutTimeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BoutTimeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C94C771D73EB6F006532DD /* BoutTimeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoutTimeUITests.swift; sourceTree = "<group>"; };
 		04C94C791D73EB6F006532DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C94C851D73EBD3006532DD /* HistoricalEvents.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HistoricalEvents.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				04C94C571D73EB6F006532DD /* AppDelegate.swift */,
+				04C94C851D73EBD3006532DD /* HistoricalEvents.plist */,
 				04C94C591D73EB6F006532DD /* ViewController.swift */,
 				04C94C5B1D73EB6F006532DD /* Main.storyboard */,
 				04C94C5E1D73EB6F006532DD /* Assets.xcassets */,
@@ -235,6 +238,7 @@
 				04C94C621D73EB6F006532DD /* LaunchScreen.storyboard in Resources */,
 				04C94C5F1D73EB6F006532DD /* Assets.xcassets in Resources */,
 				04C94C5D1D73EB6F006532DD /* Main.storyboard in Resources */,
+				04C94C861D73EBD3006532DD /* HistoricalEvents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
