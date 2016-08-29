@@ -2,11 +2,230 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Flushing toilet</key>
+	<dict>
+		<key>description</key>
+		<string>Flushing toilet invented.</string>
+		<key>answer</key>
+		<string>1596</string>
+		<key>url</key>
+		<string>https://www.google.com.hk/?ion=1&amp;espv=2#q=first%20toilet%20made</string>
+	</dict>
+	<key>Disneyland opens</key>
+	<dict>
+		<key>description</key>
+		<string>First Disneyland opens</string>
+		<key>answer</key>
+		<string>1955</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Disneyland#Opening_day</string>
+	</dict>
+	<key>London Eye opened to public</key>
+	<dict>
+		<key>description</key>
+		<string>London Eye is opened to public</string>
+		<key>answer</key>
+		<string>2000</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/London_Eye#Opening</string>
+	</dict>
+	<key>The kiss painting</key>
+	<dict>
+		<key>description</key>
+		<string>Klimt completes the painting of &quot;The Kiss&quot;</string>
+		<key>answer</key>
+		<string>1908</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/The_Kiss_(Klimt)</string>
+	</dict>
+	<key>electromagnetism paper published</key>
+	<dict>
+		<key>description</key>
+		<string>A Treatise on Electricity and Magnetism is published.</string>
+		<key>answer</key>
+		<string>1873</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism</string>
+	</dict>
+	<key>Apollo 11</key>
+	<dict>
+		<key>description</key>
+		<string>The first spaceflight that landed men on the moon</string>
+		<key>answer</key>
+		<string>1969</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Apollo_11</string>
+	</dict>
+	<key>The first computer programmer</key>
+	<dict>
+		<key>description</key>
+		<string>Birth of first computer programmer</string>
+		<key>answer</key>
+		<string>1815</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Ada_Lovelace</string>
+	</dict>
+	<key>ISIS formed</key>
+	<dict>
+		<key>description</key>
+		<string>ISIS formed</string>
+		<key>answer</key>
+		<string>1999</string>
+		<key>url</key>
+		<string>https://www.google.com.hk/?ion=1&amp;espv=2#q=when%20was%20isis%20formed</string>
+	</dict>
+	<key>South Sudan gains independence</key>
+	<dict>
+		<key>description</key>
+		<string>South Sudan formally became independent from Sudan</string>
+		<key>answer</key>
+		<string>2011</string>
+		<key>url</key>
+		<string>https://www.google.com.hk/?ion=1&amp;espv=2#q=when+did+south+sudan+gain+independence</string>
+	</dict>
+	<key>First Computer</key>
+	<dict>
+		<key>description</key>
+		<string>First computer (ENIAC) invented</string>
+		<key>answer</key>
+		<string>1946</string>
+		<key>url</key>
+		<string>https://www.google.com.hk/?ion=1&amp;espv=2#q=when%20was%20the%20first%20computer%20invented</string>
+	</dict>
+	<key>Uranium discovered</key>
+	<dict>
+		<key>description</key>
+		<string>Uranium discovered</string>
+		<key>answer</key>
+		<string>1789</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Uranium#Discovery</string>
+	</dict>
+	<key>Thatcher becomes prime minister</key>
+	<dict>
+		<key>description</key>
+		<string>Thatcher becomes prime minister</string>
+		<key>answer</key>
+		<string>1979</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Margaret_Thatcher</string>
+	</dict>
+	<key>Coca Cola </key>
+	<dict>
+		<key>description</key>
+		<string>Invention of Coca Cola</string>
+		<key>answer</key>
+		<string>1886</string>
+		<key>url</key>
+		<string>http://iml.jou.ufl.edu/projects/spring08/Cantwell/invention.html</string>
+	</dict>
+	<key>North Korea </key>
+	<dict>
+		<key>description</key>
+		<string>Soviet occupation and division of Korea</string>
+		<key>answer</key>
+		<string>1945</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/North_Korea#Soviet_occupation_and_division_of_Korea_.281945.E2.80.9350.29</string>
+	</dict>
+	<key>Israeli West Bank barrier</key>
+	<dict>
+		<key>description</key>
+		<string>Construction of Israeli West Bank barrier starts</string>
+		<key>answer</key>
+		<string>2002</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Israeli_West_Bank_barrier#Timeline</string>
+	</dict>
+	<key>Berlin wall destruction</key>
+	<dict>
+		<key>description</key>
+		<string>Berlin Wall destruction date.</string>
+		<key>answer</key>
+		<string>1989</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Berlin_Wall</string>
+	</dict>
+	<key>First animal to go in space</key>
+	<dict>
+		<key>description</key>
+		<string>First animal intentionally sent to space</string>
+		<key>answer</key>
+		<string>1947</string>
+		<key>url</key>
+		<string>http://www.universetoday.com/25427/what-was-the-first-animal-in-space/</string>
+	</dict>
+	<key>Apartheid starts</key>
+	<dict>
+		<key>description</key>
+		<string>Apartheid start date</string>
+		<key>answer</key>
+		<string>1948</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Apartheid</string>
+	</dict>
+	<key>Women&apos;s suffrage</key>
+	<dict>
+		<key>description</key>
+		<string>The first gathering devoted to women&apos;s rights in the United States </string>
+		<key>answer</key>
+		<string>1848</string>
+		<key>url</key>
+		<string>http://history.house.gov/Exhibitions-and-Publications/WIC/Historical-Essays/No-Lady/Womens-Rights/</string>
+	</dict>
+	<key>Greece joins the EU</key>
+	<dict>
+		<key>description</key>
+		<string>Greece joins the EU</string>
+		<key>answer</key>
+		<string>1981</string>
+		<key>url</key>
+		<string>https://www.theguardian.com/world/2015/jul/03/greece-in-europe-a-short-history</string>
+	</dict>
+	<key>Pioneer 3</key>
+	<dict>
+		<key>description</key>
+		<string>Pioneer 3 launches</string>
+		<key>answer</key>
+		<string>1958</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Pioneer_3</string>
+	</dict>
+	<key>First Modern Olympics</key>
+	<dict>
+		<key>description</key>
+		<string>The First International Olympic games held in modern history. </string>
+		<key>answer</key>
+		<string>1886</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/1896_Summer_Olympics</string>
+	</dict>
+	<key>Biggest Krakatoa Eruption</key>
+	<dict>
+		<key>description</key>
+		<string>The time when Krakatoa had its biggest eruption.</string>
+		<key>answer</key>
+		<string>1883</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa</string>
+	</dict>
+	<key>Deepwater Horizon Oil Spill</key>
+	<dict>
+		<key>description</key>
+		<string>The deepwater horizon oil spill incident.</string>
+		<key>answer</key>
+		<string>2010</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill</string>
+	</dict>
 	<key>Chernobyl incident</key>
-	<dict/>
-	<key>key</key>
-	<integer>0</integer>
-	<key></key>
-	<string></string>
+	<dict>
+		<key>description</key>
+		<string>Chernobyl accident in Ukraine</string>
+		<key>answer</key>
+		<string>1986</string>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Chernobyl_disaster</string>
+	</dict>
 </dict>
 </plist>
